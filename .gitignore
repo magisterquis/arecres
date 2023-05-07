@@ -1,0 +1,5 @@
+.*.swp
+*.d
+*.o
+arecres
+arecres.core
